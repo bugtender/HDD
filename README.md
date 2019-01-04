@@ -15,55 +15,55 @@ HDD is an attitude. You can use it everywhere you want.
 
 ## How to HDD
 
-#### When you are developing
+### When you are developing
 
 Moving your seat far away from the PM or Boss, as far as you can.
 
 By the way. Having your favorite drink on your desk is more helpful.
 
-#### Writing test case
+### Writing test case
 
 Please don't use "foo" or "bar." Using other words!
 
-#### Naming variable or function
+### Naming variable or function
 
 Don't use p1, v1, v2 as a variable. Please make it more friendly.
 
-#### Naming everything you will use in developing
+### Naming everything you will use in developing
 
 For example.  "Gandalf" for CI system, "Houston" for your manager, "C4" for your computer.
 
-#### If there's an error and you have no idea what happened
+### If there's an error and you have no idea what happened
 
 Just change something and see any difference.
 
-#### When CI build success
+### When CI build success
 
 High five with a colleague next to you.
 
-#### When CI build failed
+### When CI build failed
 
 Gandalf: "You should not PASS !!"
 
-#### When reviewing PR and it's good
+### When reviewing PR and it's good
 
 Give it an emoji and say "well done."
 
-#### When reviewing PR and it's bad
+### When reviewing PR and it's bad
 
 Please don't just leave "WTF" and close it.
 
 You can use emoji to show your feeling (like Trollface) and say "Nice job" but still close it.
 
-#### When pair programming
+### When pair programming
 
 Forcing your colleague who uses sublimeText or VScode to pair with you by vim.
 
-#### When releasing the major version but you find a bug.
+### When releasing the major version but you find a bug.
 
 "Houston, we have a problem."
 
-#### When you hate someone in your office
+### When you hate someone in your office
 
 Just help them update to Windows 10.
 
